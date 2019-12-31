@@ -1,4 +1,4 @@
-## Auto-Sort-Download-Files
+## Auto-Sort-Downloaded-Files
 
 Automatically sorts files by extention into catgories. It is built using python.
 
